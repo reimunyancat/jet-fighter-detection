@@ -20,7 +20,6 @@ This project builds a system to detect SU-34 and F-16 fighter jets using the YOL
 
 - **YOLOv8-based Object Detection:** Trained YOLOv8 model for detecting SU-34 and F-16 fighter jets.
 - **Real-time Detection:** Can process images and videos in real-time to detect fighter jets.
-- **Tested on Various Aerial Images:** The model is capable of detecting SU-34 and F-16 jets in different environments and angles.
 
 ## Installation
 
